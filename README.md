@@ -34,3 +34,5 @@ My Take: We should move more drivers to these airport routes during the night wh
 Finding: By plotting a heatmap of the pickup locations, I found that the vast majority of rides start in the center or "heart" of the city. While the pickups spread out to other areas during the day, the busiest spot from 9 AM all the way until midnight remains the city center.
 
 My Take: This shows that the city center is the "permanent hotspot" for Uber. Even though people travel to the outskirts, the most consistent demand is in the middle. We should keep a "core group" of drivers stationed in the center at all times to handle this constant flow of passengers.
+
+<img width="532" height="320" alt="image" src="https://github.com/user-attachments/assets/a993874a-78d2-4af2-a922-e298f6e97f22" />
