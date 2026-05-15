@@ -1,5 +1,6 @@
 Uber Data Analytics Project: New York City
 
+> **[📊 View Interactive Project Report](https://kundanjaiswal07.github.io/NYC-Uber-Data-Analysis/)**
 
 Project Overview
 This project analyzes over 100,000 Uber trip records across New York City to uncover patterns in rider behavior, seasonal growth, and trip density. The goal is to provide actionable insights for fleet management and driver optimization.
@@ -36,3 +37,9 @@ Finding: By plotting a heatmap of the pickup locations, I found that the vast ma
 My Take: This shows that the city center is the "permanent hotspot" for Uber. Even though people travel to the outskirts, the most consistent demand is in the middle. We should keep a "core group" of drivers stationed in the center at all times to handle this constant flow of passengers.
 
 <img width="532" height="320" alt="image" src="https://github.com/user-attachments/assets/a993874a-78d2-4af2-a922-e298f6e97f22" />
+
+
+### 🛠 Technical Stack
+* **Python** (Pandas, NumPy)
+* **Visualization:** Plotly Express, Matplotlib, Folium
+* **Environment:** Jupyter Notebook
